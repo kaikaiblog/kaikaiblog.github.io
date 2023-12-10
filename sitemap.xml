@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kaikaiblog.github.io/2023/12/08/%E5%A5%B9%E7%88%B1%E7%9A%84%E6%88%91/</loc>
+    
+    <lastmod>2023-12-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kaikaiblog.github.io/pic/index.html</loc>
     
     <lastmod>2023-12-10</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://kaikaiblog.github.io/2023/12/05/2023-12-2-%E5%8D%9A%E5%AE%A2deploy%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kaikaiblog.github.io/2023/12/08/%E5%A5%B9%E7%88%B1%E7%9A%84%E6%88%91/</loc>
     
     <lastmod>2023-12-07</lastmod>
     
